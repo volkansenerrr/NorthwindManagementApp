@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I-Life\\OneDrive\\Desktop\\Dosyalar\\NorthwindManagementApp\\NorthwindManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6147B3D6-1E94-4AA2-BBCE-581A9963CF1A}|NorthwindManagementApp\\NorthwindManagementApp.csproj|c:\\users\\i-life\\onedrive\\desktop\\dosyalar\\northwindmanagementapp\\northwindmanagementapp\\northwindmanagementapp\\yoneticigirisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6147B3D6-1E94-4AA2-BBCE-581A9963CF1A}|NorthwindManagementApp\\NorthwindManagementApp.csproj|solutionrelative:northwindmanagementapp\\yoneticigirisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6147B3D6-1E94-4AA2-BBCE-581A9963CF1A}|NorthwindManagementApp\\NorthwindManagementApp.csproj|c:\\users\\i-life\\onedrive\\desktop\\dosyalar\\northwindmanagementapp\\northwindmanagementapp\\northwindmanagementapp\\yoneticigirisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6147B3D6-1E94-4AA2-BBCE-581A9963CF1A}|NorthwindManagementApp\\NorthwindManagementApp.csproj|solutionrelative:northwindmanagementapp\\yoneticigirisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6147B3D6-1E94-4AA2-BBCE-581A9963CF1A}|NorthwindManagementApp\\NorthwindManagementApp.csproj|c:\\users\\i-life\\onedrive\\desktop\\dosyalar\\northwindmanagementapp\\northwindmanagementapp\\northwindmanagementapp\\yonetimpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6147B3D6-1E94-4AA2-BBCE-581A9963CF1A}|NorthwindManagementApp\\NorthwindManagementApp.csproj|solutionrelative:northwindmanagementapp\\yonetimpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6147B3D6-1E94-4AA2-BBCE-581A9963CF1A}|NorthwindManagementApp\\NorthwindManagementApp.csproj|c:\\users\\i-life\\onedrive\\desktop\\dosyalar\\northwindmanagementapp\\northwindmanagementapp\\northwindmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6147B3D6-1E94-4AA2-BBCE-581A9963CF1A}|NorthwindManagementApp\\NorthwindManagementApp.csproj|solutionrelative:northwindmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\OneDrive\\Desktop\\Dosyalar\\NorthwindManagementApp\\NorthwindManagementApp\\NorthwindManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "NorthwindManagementApp\\Program.cs",
+              "ToolTip": "C:\\Users\\I-Life\\OneDrive\\Desktop\\Dosyalar\\NorthwindManagementApp\\NorthwindManagementApp\\NorthwindManagementApp\\Program.cs",
+              "RelativeToolTip": "NorthwindManagementApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T02:25:42.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YonetimPaneli.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\OneDrive\\Desktop\\Dosyalar\\NorthwindManagementApp\\NorthwindManagementApp\\NorthwindManagementApp\\YonetimPaneli.cs",
+              "RelativeDocumentMoniker": "NorthwindManagementApp\\YonetimPaneli.cs",
+              "ToolTip": "C:\\Users\\I-Life\\OneDrive\\Desktop\\Dosyalar\\NorthwindManagementApp\\NorthwindManagementApp\\NorthwindManagementApp\\YonetimPaneli.cs",
+              "RelativeToolTip": "NorthwindManagementApp\\YonetimPaneli.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T02:03:43.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YoneticiGirisEkrani.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\OneDrive\\Desktop\\Dosyalar\\NorthwindManagementApp\\NorthwindManagementApp\\NorthwindManagementApp\\YoneticiGirisEkrani.cs",
+              "RelativeDocumentMoniker": "NorthwindManagementApp\\YoneticiGirisEkrani.cs",
+              "ToolTip": "C:\\Users\\I-Life\\OneDrive\\Desktop\\Dosyalar\\NorthwindManagementApp\\NorthwindManagementApp\\NorthwindManagementApp\\YoneticiGirisEkrani.cs",
+              "RelativeToolTip": "NorthwindManagementApp\\YoneticiGirisEkrani.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:36:44.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YoneticiGirisEkrani.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\I-Life\\OneDrive\\Desktop\\Dosyalar\\NorthwindManagementApp\\NorthwindManagementApp\\NorthwindManagementApp\\YoneticiGirisEkrani.cs",
+              "RelativeDocumentMoniker": "NorthwindManagementApp\\YoneticiGirisEkrani.cs",
+              "ToolTip": "C:\\Users\\I-Life\\OneDrive\\Desktop\\Dosyalar\\NorthwindManagementApp\\NorthwindManagementApp\\NorthwindManagementApp\\YoneticiGirisEkrani.cs [Design]",
+              "RelativeToolTip": "NorthwindManagementApp\\YoneticiGirisEkrani.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:40:38.843Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

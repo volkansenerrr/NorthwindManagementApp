@@ -1,0 +1,11 @@
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\NorthwindManagementApp\NorthwindManagementApp\NorthwindManagementApp\bin\Debug\NorthwindManagementApp.exe.config
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\NorthwindManagementApp\NorthwindManagementApp\NorthwindManagementApp\bin\Debug\NorthwindManagementApp.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\NorthwindManagementApp\NorthwindManagementApp\NorthwindManagementApp\bin\Debug\NorthwindManagementApp.pdb
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\NorthwindManagementApp\NorthwindManagementApp\NorthwindManagementApp\obj\Debug\NorthwindManagementApp.csproj.AssemblyReference.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\NorthwindManagementApp\NorthwindManagementApp\NorthwindManagementApp\obj\Debug\NorthwindManagementApp.Properties.Resources.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\NorthwindManagementApp\NorthwindManagementApp\NorthwindManagementApp\obj\Debug\NorthwindManagementApp.csproj.GenerateResource.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\NorthwindManagementApp\NorthwindManagementApp\NorthwindManagementApp\obj\Debug\NorthwindManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\NorthwindManagementApp\NorthwindManagementApp\NorthwindManagementApp\obj\Debug\NorthwindManagementApp.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\NorthwindManagementApp\NorthwindManagementApp\NorthwindManagementApp\obj\Debug\NorthwindManagementApp.pdb
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\NorthwindManagementApp\NorthwindManagementApp\NorthwindManagementApp\obj\Debug\NorthwindManagementApp.frm_YoneticiGiris.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\NorthwindManagementApp\NorthwindManagementApp\NorthwindManagementApp\obj\Debug\NorthwindManagementApp.frm_YonetimPaneli.resources
