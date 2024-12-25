@@ -45,11 +45,9 @@ namespace NorthwindManagementApp
                     if (u != null)
                     {
                         LoginUser.user = u;
-                        //isLogin = true;
-                        frm_YonetimPaneli yonetimPaneli = new frm_YonetimPaneli();
-                        yonetimPaneli.Show();
-                        //frm_YoneticiGiris yoneticiGiris = new frm_YoneticiGiris();
-                        //yoneticiGiris.Close();
+                        isLogin = true;
+                       
+                       
                         this.Close();
                     }
                     else

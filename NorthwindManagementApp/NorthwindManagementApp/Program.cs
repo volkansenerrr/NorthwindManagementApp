@@ -16,7 +16,7 @@ namespace NorthwindManagementApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frm_YoneticiGiris());
+            Application.Run(new frm_YonetimPaneli());
         }
     }
 }

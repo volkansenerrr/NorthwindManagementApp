@@ -15,13 +15,14 @@ namespace NorthwindManagementApp
     {
         public frm_YonetimPaneli()
         {
+            frm_YoneticiGiris frm = new frm_YoneticiGiris();
+            frm.ShowDialog();
             InitializeComponent();
         }
 
         private void frm_YonetimPaneli_Load(object sender, EventArgs e)
         {
-            frm_YoneticiGiris frm = new frm_YoneticiGiris();
-            frm.ShowDialog();
+           
 
             TSMI_Kategori.Text = "Kullanıcı = " + LoginUser.user.FullName;
         }
